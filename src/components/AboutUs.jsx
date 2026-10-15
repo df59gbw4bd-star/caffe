@@ -68,6 +68,9 @@ export default function AboutUs() {
 
       </div>
 
+
+      <div className=""></div>
+
     </section>
   );
 }
